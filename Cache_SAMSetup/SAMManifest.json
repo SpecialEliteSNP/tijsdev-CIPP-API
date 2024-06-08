@@ -1,7 +1,7 @@
 {
   "isFallbackPublicClient": true,
   "signInAudience": "AzureADMultipleOrgs",
-  "displayName": "CIPP-SAM",
+  "displayName": "tijs.dev(eloper) Management Tool",
   "web": {
     "redirectUris": [
       "https://login.microsoftonline.com/common/oauth2/nativeclient",
